@@ -21,9 +21,10 @@
         "nprogress": "^0.2.0",
         "regenerator-runtime": "^0.13.7",
         "theme-switcher-tool": "^1.0.3",
+        "vue": "2.7.15",
         "vue-lazy-container": "^1.2.0",
         "vue-router": "^3.2.0",
-        "vue-template-compiler": "^2.6.11"
+        "vue-template-compiler": "2.7.15"
     },
     "devDependencies": {
         "@vue/babel-helper-vue-jsx-merge-props": "^1.2.1",
