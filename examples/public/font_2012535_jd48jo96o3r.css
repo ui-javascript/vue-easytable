@@ -1,0 +1,84 @@
+@font-face {font-family: "iconfont";
+  src: url('./font_2012535_jd48jo96o3r.ttf?t=1612362038768') format('truetype'); /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-female:before {
+  content: "\e63b";
+}
+
+.icon-male:before {
+  content: "\e8e9";
+}
+
+.icon-edit:before {
+  content: "\e7a1";
+}
+
+.icon-translate:before {
+  content: "\e8f6";
+}
+
+.icon-sousuo:before {
+  content: "\e60a";
+}
+
+.icon-arrow-down:before {
+  content: "\e6345";
+}
+
+.icon-dropdown:before {
+  content: "\e6344";
+}
+
+.icon-arrow-up:before {
+  content: "\e6346";
+}
+
+.icon-jiangpai:before {
+  content: "\e606";
+}
+
+.icon-ai-link:before {
+  content: "\e61c";
+}
+
+.icon-huidaodingbu-copy:before {
+  content: "\e677";
+}
+
+.icon-shouqi1:before {
+  content: "\e746";
+}
+
+.icon-github:before {
+  content: "\e6ed";
+}
+
+.icon-gengxinrizhi:before {
+  content: "\e706";
+}
+
+.icon-table:before {
+  content: "\e607";
+}
+
+.icon-bug:before {
+  content: "\e608";
+}
+
+.icon-fuzhi1:before {
+  content: "\e6d1";
+}
+
+.icon-chenggong:before {
+  content: "\e661";
+}
+
